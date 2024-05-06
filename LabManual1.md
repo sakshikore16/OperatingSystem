@@ -27,3 +27,4 @@ Lab Manual 1:
 11. grep: Search for a specified pattern in one or more files.
 <img width="1040" alt="11" src="https://github.com/sakshikore16/OperatingSystem/assets/142594806/a8923e35-9862-4ba5-b115-2614b118a516">
 12. sed: Utilize a stream editor for filtering and transforming text.
+<img width="1013" alt="12" src="https://github.com/sakshikore16/OperatingSystem/assets/142594806/918b0621-144d-463b-a982-751c5efd45ca">
